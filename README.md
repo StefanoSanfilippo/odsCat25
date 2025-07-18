@@ -1,1 +1,1 @@
-Repositorio del proyecto de Indicadores de ODS en los Municipios de Catalunya.
+Repositori del projecte d'Indicadors dels ODS als Municipis de Catalunya: htpps://ods-municipios.es/catalunya
