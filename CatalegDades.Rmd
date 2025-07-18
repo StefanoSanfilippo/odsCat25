@@ -1,0 +1,143 @@
+---
+title: "Catàleg de les fonts de dades"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+---
+<style>
+.page-header{
+    background-color: #BF8B2E;
+    background-image: none;
+    }
+
+
+.main-content h3{
+    color: #6f0f36;
+    
+}
+    
+
+</style>
+
+```{r include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(cache = FALSE)
+```
+
+<h3><b>Mapes de municipis i comarques</b></h3>
+
+- [Limits administratius municipis i comarques de Catalunya](https://www.icgc.cat/){target="_blank"}.
+
+<h3><b>Dades de població</b></h3>
+
+- [IDESCAT - Població a 1 de gener 2020-2024](https://www.idescat.cat/pub/?id=pmh&n=446&lang=es&hist=taules%2Fv2%2Fpmh%2F446%2F477%2Fmun%2Fdata%3Flang%3Des%26_LAST_%3D7%5Ecl%3D1%2C1%2Fc%3D0%2Fr%3D1%2Ft%3D-1c%3B0d%2C2%2C3%2C4%2C5%2C6%3B2%2C2%2Fe%3D1){target="_blank"}.
+- [IDESCAT - Població a 1 de gener any a any (2023 i 2024)](https://www.idescat.cat/pub/?id=censph&n=10&by=mun&f=zip&fi=ssv){target="_blank"}.
+
+
+<h3><b>Dades ODS 1</b></h3>
+
+- [RFDB i RFDB per habitant](https://www.idescat.cat/pub/?id=rfdbc&n=21181&lang=es){target="_blank"}
+- [Taxa de Risc de Pobresa i Taxa de Pobresa Severa: INE - <i>Atlas de distribución de renta de los hogares</i>](https://www.ine.es/dynt3/inebase/index.htm?padre=7132){target="_blank"}.
+- [Taxa de despesa en Serveis socials i promoció social: <i>CONPREL: CONSULTA PRESUPUESTOS Y LIQUIDACIONES DE EELL</i>](https://serviciostelematicosext.hacienda.gob.es/SGFAL/CONPREL){target="_blank"}
+Seleccionar *Ejercicio*: *2023*, *Liquidaciones*, clicar *Datos por Entidad Local. Máximo nivel de desglose (Formato ACCESS)*.
+
+
+<h3><b>Dades ODS 2</b></h3>
+
+- [CCPAE - Consell Català per a la Produccó Ecològica - Dades superfície agrícola ecològica](https://www.ccpae.org/docs/estadistiques/2023/03_2023_superficie_total-comarcal-municipal.xlsx){target="_blank"}.
+- [IDESCAT - Distribució de la superfície agrícola utilitzada (SAU)](https://www.idescat.cat/pub/?id=censag&n=16059&geo=mun){target="_blank"}.
+- [IDESCAT - Superfície total municipal](https://www.idescat.cat/indicadors/?id=aec&n=15903){target="_blank"}.
+
+
+<h3><b>Dades ODS 3</b></h3>
+
+- **Taxa de mortalitat general**: [IDESCAT - Defuncions segons sexe](https://www.idescat.cat/pub/?id=def&n=365&geo=mun){target="_blank"}
+- **Esperança de vida al néixer**: [INE: Microdades de mortalitat](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177008&menu=resultados&idp=1254735573002#){target="_blank"}.
+
+
+<h3><b>Dades ODS 4</b></h3>
+
+- [Completament de l'Educació Superior - *Censo anual 2021-2023* (INE)](https://www.ine.es/dynt3/inebase/es/index.htm?padre=10608&capsel=10612){target="_blank"}. Seleccionar *Cataluña*, seleccionar *Todos los municipios*, seleccionar *Personas* i *Nivel educativo (grado)*.
+- **Taxa de despesa municipal mitjana en educació**: Veure *Taxa de despesa en Serveis socials i promoció social* (ODS 1).
+
+
+<h3><b>Dades ODS 5</b></h3>
+
+- **Proporció atur femení**: [IDESCAT: Dades Atur 2024](https://www.idescat.cat/pub/?id=atureg&n=4299&geo=mun
+){target="_blank"}.
+- **Paritat entre el càrrecs electes**: [Dades Obertes Catalunya: Carrecs electes ajuntaments](https://analisi.transparenciacatalunya.cat/Sector-P-blic/C-rrecs-electes-dels-ens-locals/m5nd-xjza/about_data){target="_blank"}.
+- [Pensions contributives segons sexe i municipi](https://www.idescat.cat/pub/?id=pens&n=10763){target="_blank"}: Recopilació per *scraping*.
+
+
+<h3><b>Dades ODS 6</b></h3>
+
+- [ACA: Consum d'aigua per municipi](https://aca.gencat.cat/web/.content/20_Aigua/08_consulta_de_dades/01_dades_obertes/01_visualitzacio_interactiva_dades/01_consum-aigua_comarques_catalunya/volum-aigua-consum-municipi.xlsx){target="_blank"}.
+- [ACA: Preu de l'aigua de consum domèstic](https://aca.gencat.cat/web/.content/10_ACA/L_Observatori_preu_aigua/03-Preu-per-municipis-i-evolucio/Preus_per_municipi_ca.xlsx){target="_blank"}.
+- **Vulnerabilitat per nitrats a les aigües**: [Departament d'Acció Climàtica, Alimentació i Agenda Rural: Vulnerabilitat municipal por contaminació de les aigües per nitrats](https://www.gencat.cat/agricultura/sig/bases/ZonVulNit.zip){target="_blank"}.
+
+
+<h3><b>Dades ODS 7</b></h3>
+
+- [Dades Obertes Catalunya: Consum de Gas Natural Canalitzat](https://analisi.transparenciacatalunya.cat/Energia/Consum-de-gas-natural-canalitzat-per-municipis-i-s/qvqg-zag8/about_data){target="_blank}.
+- [Dades Obertes Catalunya: Instal·lacions d'autoconsum fotovoltaic](https://analisi.transparenciacatalunya.cat/Energia/Instal-lacions-d-autoconsum-el-ctric/2b4s-skfm/about_data){target="_blank}.
+- [ICAEN: Certificats d’eficiència energètica d’edificis](https://analisi.transparenciacatalunya.cat/Energia/Certificats-d-efici-ncia-energ-tica-d-edificis/j6ii-t3w2/about_data){target="_blank}.
+
+<h3><b>Dades ODS 8</b></h3>
+
+- [IDESCAT: Dades Atur 2024](https://www.idescat.cat/pub/?id=atureg&n=4299&geo=mun){target="_blank"}.
+- [IDESCAT: Creixement del PIB/hab.](https://www.idescat.cat/pub/?id=pibc&n=13830&by=mun){target="_blank"}.
+
+<h3><b>Dades ODS 9</b></h3>
+
+- [IDESCAT: Ocupació assalariada per sector d'activitat econòmica (Indústria)](https://www.idescat.cat/pub/?id=afic&n=14983&geo=mun&t=202304:p){target="_blank"}.
+- [INE: *Empresas por municipio y actividad principal*](https://www.ine.es/jaxiT3/Tabla.htm?t=4721&L=0){target="_blank"}.
+
+
+<h3><b>Dades ODS 10</b></h3>
+
+- **Taxa de risc de pobresa**: Veure ODS 1.
+- **Índex Gini**: [INE: Atlas de distribución de renta de los hogares. Año 2022](https://www.ine.es/dynt3/inebase/index.htm?padre=7132){target="_blank"}.
+- **Tasa de dependencia (2024)**: [IDESCAT - Població a 1 de gener any a any](https://www.idescat.cat/pub/?id=censph&n=10&by=mun&f=zip&fi=ssv){target="_blank"}.
+
+<h3><b>Dades ODS 11</b></h3>
+
+- **Pes relatiu del cost del lloguer**: [Dades Obertes Catalunya: Preu mitjà del lloguer d’habitatges per municipi](https://analisi.transparenciacatalunya.cat/Habitatge/Preu-mitj-del-lloguer-d-habitatges-per-municipi/qww9-bvhh/about_data){target="_blank"}.
+- **Taxa de zones residencials amb ric d'inundació**: Per a aquest indicador es necessiten: 1) [Dades d'inundabilitat provincia per provincia](https://www.miteco.gob.es/es/cartografia-y-sig/ide/descargas/agua/zi-lamina.html){target="_blank"}; 2) [Mapa de classificació del sòl](https://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=SIOSE){target="_blank"}.
+- [Dades de motorització de la DGT](https://www.dgt.es/menusecundario/dgt-en-cifras/dgt-en-cifras-resultados/dgt-en-cifras-detalle/Datos-municipales-informacion-general-2024/){target="_blank"}.
+- **Taxa d'àrea verda per hab.**: [Dades Obertes Catalunya: Dades del mapa urbanístic de Catalunya](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data){target="_blank"}.
+
+<h3><b>Datos ODS 12</b></h3>
+
+- **Recollida selectiva per habitant i Fracció de recollida selectiva sobre recollida total**:  [Dades Obertes Catalunya: Estadístiques de residus municipals](https://analisi.transparenciacatalunya.cat/Medi-Ambient/Estad-stiques-de-residus-municipals/69zu-w48s/about_data){target="_blank"}.
+
+<h3><b>Datos ODS 13</b></h3>
+
+- [Taxa de despesa en Medi Ambient (política 17): <i>CONPREL: CONSULTA PRESUPUESTOS Y LIQUIDACIONES DE EELL</i>](https://serviciostelematicosext.hacienda.gob.es/SGFAL/CONPREL){target="_blank"}.
+Seleccionar *Ejercicio*: *2023*, *Liquidaciones*, clicar *Datos por Entidad Local. Máximo nivel de desglose (Formato ACCESS)*.
+- [Global Covenant of Mayors - A complete collection of action plans and monitoring reports from MyCovenant reporting platform](https://data.jrc.ec.europa.eu/dataset/b425918f-53a1-495c-8619-cd370c302eb0){target="_blank"}.
+
+<h3><b>Datos ODS 15</b></h3>
+
+- **Taxa d'ocupació dels boscos**: [Superficie cadastral rústica total i superfície ocupada per boscos](https://www.catastro.hacienda.gob.es/esp/estadistica_10.asp){target="_blank"}. Buscar primer les supefícies rustiques totals per província i després els percentatges de superfície de bosc de fusta d'espècies a creixement lent.
+-  **Superfície no urbanitzable**: [Dades del mapa urbanístic de Catalunya
+](https://analisi.transparenciacatalunya.cat/Urbanisme-infraestructures/Dades-del-mapa-urban-stic-de-Catalunya/epsm-zskb/about_data){target="_blank"}.
+
+<h3><b>Datos ODS 16</b></h3>
+
+- **Taxa de criminalitat general**: [Balances trimestrales de criminalidad](https://estadisticasdecriminalidad.ses.mir.es/publico/portalestadistico/balances.html){target="_blank"}. Seguir con la selección.
+- [Participació a les eleccions municipals: Info Electoral](https://infoelectoral.interior.gob.es/es/elecciones-celebradas/area-de-descargas/){target="_blank"}.
+- [Deute viu municipal](https://www.hacienda.gob.es/es-ES/cdi/paginas/sistemasfinanciaciondeuda/informacioneells/deudaviva.aspx){target="_blank"}.
+
+<h3><b>Datos ODS 17</b></h3>
+
+- [Aportació municipal a Cooperació al Desenvolupament (2018)](https://ods-municipios.es/catalunya/07MunicipisCatalans.zip){target="_blank"} (es descarrega des de *ods-municipios.es* perquè ja no es troba a la web del Fons Català). [Ingressos propis municipals](https://serviciostelematicosext.hacienda.gob.es/SGFAL/CONPREL){target="_blank"}. Seleccionar *Ejercicio*: *2018*, *Liquidaciones*, clicar *Datos por Entidad Local. Máximo nivel de desglose (Formato ACCESS)*.
+
+
+
+
+
+
+
+
