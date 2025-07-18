@@ -1,0 +1,233 @@
+
+/* colors background: #b77b7f,#e5d0d6, colors font: white, #6f0f36  */
+
+/* ================ Format barra superior--- */
+.header{
+  position: fixed;
+  height:45px;
+  background-color: #DDA63A;
+  width: 90%;
+  top:0;
+  right:0;
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+.left-side{
+  position: inline-block;
+  color: white;
+  padding-left: 75px;
+  float: left;
+}
+
+.right-side{
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  float: left;
+  margin-left: 400px;
+  right: 0;
+}
+
+/* ======================================--- */
+
+
+
+/* ======================================--- */
+
+/* ================ Format barra lateral de navegació--- */
+
+.navbar {
+  background-color: #DDA63A;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden; /* Para que la barra de scroll solo se vea en la parte inferior */
+  width: 200px; /* Modify the width of the sidebar */
+  font-size: 9pt;
+  padding-bottom: 70px;
+}
+
+/*.navbar-logo.pull-left { /* ================ Format inside logo space--- */
+  /*position: fixed;
+  margin-top: 1px;
+  background-color: white;
+  margin-left: -13px;
+  width: 197px;
+} */
+
+.navbar-brand {
+  position: fixed;
+  margin-top: 10px;
+  text-wrap: wrap;
+  width: 168px;
+  font-size: 12pt;
+  line-heigt: 17px;
+}
+
+
+
+.navbar-author {
+  text-wrap: wrap;
+}
+
+.navbar-nav {
+  height: 87%;
+  position: absolute;
+  margin-top: 70px;
+  padding-top: 10px;
+  padding-bottom: 70px;
+  overflow: hidden;
+}
+
+.navbar-nav:hover { /* ======== Se ve la barra de scroll solo cuando se usa--- */
+  overflow-y: scroll;
+}
+
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+    background-color: white;
+    color: #6f0f36;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+    background-color: #BF8B2E;
+    color: white;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+    background-color: #DDA63A;
+    color: white;
+}
+
+/* ===============El drop-down============================== */
+/* colors background: #b77b7f,#e5d0d6, colors font: white, 6f0f36  */
+.dropdown-toggle:not(.active) {
+        background:#DDA63A;
+        color: white;
+}
+}
+.open > .dropdown-toggle {
+        background:#DDA63A; !important; 
+        color:white; !important;      
+}
+
+.open > .dropdown-menu > li.active {
+        background: #DDA63A;
+        color: white;
+}
+.open > .dropdown-menu > li > a {
+      background: #BF8B2E;
+      font-size: 11px;
+      word-wrap: break-word;
+      white-space: normal;
+      width: 150px;}
+.open > .dropdown-menu > li.active > a {background: #BF8B2E;}
+.open > .dropdown-menu > li.active > a:hover {background: #BF8B2E;color: #6f0f36;}
+.open > .dropdown-menu > li.active > a:focus {background: #BF8B2E;color: #6f0f36;}
+.open > .dropdown-menu > li:not(.active) > a:hover {background: #DDA63A;color: #6f0f36;}
+.open > .dropdown-menu > li:not(.active) > a:focus {background: #DDA63A;color: #6f0f36;}
+
+
+
+/* =========================================================== */
+/* ================ Format inside: body--- */
+
+.desktop-layout {
+ height: 100%;
+ width: 87%;
+ padding-top: 49px;
+ padding-bottom: 5px;
+ position: fixed;
+ top: 0px; left: 200px;
+}
+
+
+
+div.chart-title { /* ================ Format inside: chart titles--- */
+    font-weight: bold;
+    color: #c52026;
+}
+
+.nav-tabs-custom > .nav-tabs > li.active a {  /* ================ Format inside: tabs titles-- */  
+    font-weight: bold;
+    color: #c52026;
+    border-top-color: none;
+}
+
+.nav-tabs-custom > .nav-tabs > li:not(.active) a {    
+    color:#1D5C6A;
+}
+
+
+ /* ================ Format Apuntes metodológicos y fuentes de datos --- */
+
+
+#aspectos-metodológicos-fuentes-de-datos-y-bibliografia {
+    background-color: white;
+    top: 0px; left: 200px;
+    text-justify: auto;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+
+
+#filtres{
+  background: #FFEFD5;
+}
+
+
+
+/* ================ Format botones links externos--- */
+
+.button_large {
+  padding: 15px 32px;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #8e131d;
+  font-weight: bold;
+  border-color: #ffffff;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 20px;
+}
+
+.button_large:link {
+  padding: 15px 32px;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #8e131d;
+  font-weight: bold;
+  border-color: #ffffff;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: 20px;
+}
+
+.button_large:hover {
+  background-color: #d21a2b;
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.button_large:visited {
+  color: #ffffff;
+  background-color: #d21a2b;
+  text-decoration: underline;
+}
+
+.button_large:active {
+  background-color: #d21a2b;
+  color: #ffffff;
+  text-decoration: none;
+}
