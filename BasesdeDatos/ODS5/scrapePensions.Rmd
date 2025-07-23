@@ -1,0 +1,131 @@
+---
+title: "Scraping IDESCAT Pensions"
+author: "Stefano Sanfilippo"
+date: "2024-05-17"
+output: html_document
+---
+
+
+
+```{r}
+library(dplyr)
+library(stringr)
+library(janitor)
+library(rvest)
+library(RSelenium)
+library(wdman)
+library(netstat)
+
+```
+
+
+```{r}
+# Connect to Selenium
+driver_object <- rsDriver(browser = "firefox",
+                          chromever=NULL,
+                          phantomver = NULL,
+                          verbose = FALSE,
+                          port = free_port())
+Sys.sleep(5)
+remDr <- driver_object$client
+# OBRIR
+remDr$open()
+Sys.sleep(5)
+
+# Open the webpage
+url <- 'https://www.idescat.cat/pub/?id=pens&n=10763'
+remDr$navigate(url)   
+Sys.sleep(5)
+
+```
+
+
+```{r}
+
+
+xpathCat <- '/html/body/div[1]/main/div[2]/div[1]/div/div[2]/details[1]/summary'
+xpathMunicipis <- '/html/body/div[1]/main/div[2]/div[1]/div/div[2]/details[1]/div/form[1]/fieldset/ul/li[5]/label/input'
+xpathMenu <- '/html/body/div[1]/main/div[2]/div[1]/div/div[2]/details[1]/div/form[1]/fieldset/div/select'
+xpathMun <- '/html/body/div[1]/main/div[2]/div[1]/div/div[2]/details[1]/div/form[1]/fieldset/div/select/optgroup/option'
+xpathAplica <- '/html/body/div[1]/main/div[2]/div[1]/div/div[2]/details[1]/div/form[1]/fieldset/input'
+
+tab <- list()
+nomMun <- list()
+
+for (i in 1:947) {
+
+cat <- remDr$findElement(using = 'xpath', xpathCat) # click Catalunya
+cat$clickElement()
+Sys.sleep(1)
+
+municipis <- remDr$findElement(using = 'xpath', xpathMunicipis) # click Municipis 
+municipis$clickElement()
+Sys.sleep(1)
+
+menu <- remDr$findElement(using = 'xpath', xpathMenu) # Click Dropdown Municipis
+menu$clickElement()
+Sys.sleep(1)
+
+mun <- remDr$findElements(using = 'xpath', xpathMun) # Click to choose one Municipi
+mun[[i]]$clickElement()
+Sys.sleep(1)
+
+submit <- remDr$findElement(using = 'xpath', xpathAplica) # Click button "Aplica" (SUBMIT)
+submit$clickElement()
+Sys.sleep(1)
+
+nomMun[[i]] <- remDr$getPageSource()[[1]] %>%
+    read_html() %>% 
+    html_element(css = '#tabulaFS > div > div.controls > details.locus > summary') %>% 
+    html_text2()
+
+tab[[i]] <- remDr$getPageSource()[[1]] %>% 
+    read_html() %>% 
+    html_table(header = FALSE) %>%
+    unlist() |> 
+    matrix(ncol = 6, byrow = F) %>% 
+    as.data.frame() %>% 
+    select(2:6) %>% 
+    slice(2:4) %>%
+    janitor::row_to_names(row_number = 1) %>% 
+    mutate_all(list(~ str_remove(., pattern = "\\."))) %>% 
+    mutate_all(list(~ as.numeric(.))) %>% 
+    mutate(Municipio= nomMun[[i]],
+           Sexe= c("H", "D")) %>% 
+    select(6:7,2,4) %>% 
+    tidyr::pivot_wider(names_from = Sexe, values_from = c(Mitjana,Mediana))
+    
+
+}
+
+```
+
+
+
+
+```{r}
+
+tab.o5Jub <- tab %>% bind_rows() %>% 
+    filter(!is.na(Mitjana_H) & !is.na(Mitjana_D)) # filter rows without data
+
+writexl::write_xlsx(tab.o5Jub, "Pensions.xlsx")
+
+```
+
+
+
+
+
+```{r}
+
+remDr$close()
+remDr$quit()
+
+
+```
+
+
+
+
+
+
