@@ -1,1 +1,955 @@
-
+﻿Atur registrat. Per sexe. Mitjanes anuals;;;;
+Municipis. 2024;;;;
+Unitats: Persones.;;;;
+Font: Departament d'Empresa i Treball.;;;;
+Institut d'Estadística de Catalunya;;;;
+https://www.idescat.cat/pub/?id=atureg&n=4299&geo=mun;;;;
+Codi;Nom;Sexe. Homes;Sexe. Dones;Sexe. Total
+250019;Abella de la Conca;5,9;3,9;9,8
+080018;Abrera;177,5;280,6;458,1
+250024;Àger;7,2;6,7;13,8
+250030;Agramunt;61,9;113,6;175,5
+080023;Aguilar de Segarra;4,3;5,3;9,6
+170010;Agullana;9,8;15,2;24,9
+080142;Aiguafreda;49,3;62,2;111,5
+430017;Aiguamúrcia;23,8;26,8;50,5
+170025;Aiguaviva;8,3;8,3;16,5
+250387;Aitona;20,2;36,7;56,8
+250045;Alamús, els;6,3;13,2;19,4
+250058;Alàs i Cerc;3,3;3,3;6,5
+250061;Albagés, l';4,0;7,5;11,5
+170031;Albanyà;0,8;4,3;5,0
+250077;Albatàrrec;23,7;33,8;57,5
+250083;Albesa;12,4;21,0;33,4
+250096;Albi, l';10,5;11,1;21,6
+430022;Albinyana;69,4;96,2;165,6
+430038;Albiol, l';6,0;5,4;11,4
+170046;Albons;8,0;10,0;18,0
+430043;Alcanar;170,2;219,4;389,6
+250100;Alcanó;1,4;3,2;4,6
+250117;Alcarràs;140,5;188,1;328,6
+250122;Alcoletge;57,1;69,4;126,5
+430056;Alcover;108,9;129,0;237,9
+439044;Aldea, l';77,2;103,1;180,3
+430069;Aldover;15,4;21,7;37,1
+430075;Aleixar, l';15,2;23,4;38,6
+080039;Alella;105,3;120,6;225,8
+430081;Alfara de Carles;8,4;7,5;15,9
+250138;Alfarràs;112,0;121,9;233,9
+250143;Alfés;3,3;3,7;7,0
+430094;Alforja;38,9;46,2;85,1
+250156;Algerri;8,3;8,2;16,4
+250169;Alguaire;39,8;50,3;90,1
+250175;Alins;1,3;0,5;1,8
+430108;Alió;5,3;13,3;18,5
+250194;Almacelles;69,1;104,6;173,7
+250208;Almatret;1,3;1,2;2,5
+250215;Almenar;58,6;55,5;114,1
+430115;Almoster;14,3;20,3;34,6
+250220;Alòs de Balaguer;0,7;1,3;1,9
+170062;Alp;14,5;20,6;35,1
+080044;Alpens;1,3;8,0;9,3
+250236;Alpicat;46,5;77,3;123,8
+250241;Alt Àneu;2,1;3,0;5,1
+430120;Altafulla;69,6;109,8;179,4
+170078;Amer;34,3;45,1;79,3
+430136;Ametlla de Mar, l';105,3;163,7;269,0
+080057;Ametlla del Vallès, l';119,2;170,7;289,8
+439060;Ampolla, l';57,4;79,5;136,9
+430141;Amposta;436,3;670,8;1107,1
+170084;Anglès;119,6;130,3;249,9
+250273;Anglesola;20,3;30,5;50,8
+250292;Arbeca;33,1;43,2;76,3
+430167;Arboç, l';152,4;214,0;366,4
+430154;Arbolí;4,2;2,8;7,0
+170097;Arbúcies;112,8;161,3;274,0
+080060;Arenys de Mar;296,0;410,4;706,4
+080076;Arenys de Munt;170,9;210,9;381,8
+170101;Argelaguer;5,1;6,4;11,5
+080082;Argençola;1,5;3,7;5,2
+430173;Argentera, l';3,6;2,0;5,6
+080095;Argentona;192,4;288,7;481,1
+170118;Armentera, l';8,7;16,8;25,4
+430189;Arnes;5,8;4,6;10,4
+250313;Arres;0,3;0,3;0,5
+250328;Arsèguel;0,0;2,0;2,0
+080109;Artés;88,3;133,1;221,4
+250334;Artesa de Lleida;18,8;21,0;39,8
+250349;Artesa de Segre;55,8;67,6;123,4
+430192;Ascó;20,2;31,8;52,0
+250365;Aspa;1,2;2,7;3,8
+250371;Avellanes i Santa Linya, les;3,9;5,8;9,8
+080116;Avià;25,3;36,2;61,5
+080121;Avinyó;39,5;41,4;80,9
+170123;Avinyonet de Puigventós;14,0;33,0;47,0
+080137;Avinyonet del Penedès;30,7;43,7;74,3
+080155;Badalona;5060,1;6941,2;12001,3
+089045;Badia del Vallès;403,0;510,8;913,8
+080168;Bagà;21,3;55,8;77,1
+250390;Baix Pallars;8,5;4,6;13,1
+250404;Balaguer;420,5;573,5;994,0
+080174;Balenyà;84,8;110,1;194,9
+080180;Balsareny;46,9;79,7;126,6
+430206;Banyeres del Penedès;68,8;106,2;175,0
+170157;Banyoles;316,8;366,5;683,3
+250411;Barbens;10,6;12,9;23,5
+430213;Barberà de la Conca;8,1;11,0;19,1
+082520;Barberà del Vallès;582,8;866,1;1448,8
+080193;Barcelona;28172,8;35184,9;63357,7
+250426;Baronia de Rialb, la;1,9;3,1;5,0
+170160;Bàscara;11,6;19,3;30,8
+250447;Bassella;3,0;1,0;4,0
+430228;Batea;18,7;31,1;49,8
+250450;Bausen;1,4;0,8;2,3
+080207;Begues;84,4;99,7;184,1
+170139;Begur;36,2;44,4;80,6
+250463;Belianes;5,0;8,8;13,8
+251706;Bellaguarda;1,0;1,7;2,7
+170182;Bellcaire d'Empordà;5,8;15,6;21,4
+250479;Bellcaire d'Urgell;13,5;17,8;31,3
+250485;Bell-lloc d'Urgell;35,7;56,2;91,8
+250498;Bellmunt d'Urgell;4,3;2,4;6,7
+430234;Bellmunt del Priorat;3,4;6,8;10,3
+080214;Bellprat;1,0;0,0;1,0
+250501;Bellpuig;68,3;103,2;171,5
+430249;Bellvei;67,1;91,2;158,3
+250518;Bellver de Cerdanya;16,7;24,3;40,9
+250523;Bellvís;29,0;41,4;70,4
+250539;Benavent de Segrià;18,0;21,0;39,0
+430252;Benifallet;10,5;8,4;18,9
+430265;Benissanet;8,5;15,2;23,7
+080229;Berga;310,3;487,5;797,8
+170195;Besalú;20,6;34,8;55,4
+170209;Bescanó;60,8;84,3;145,2
+170216;Beuda;8,2;6,8;14,9
+080235;Bigues i Riells del Fai;174,2;236,8;411,0
+250557;Biosca;1,3;1,3;2,7
+170221;Bisbal d'Empordà, la;220,0;284,8;504,8
+430271;Bisbal de Montsant, la;1,4;4,0;5,4
+430287;Bisbal del Penedès, la;113,2;150,3;263,4
+172348;Biure;2,9;3,0;5,9
+430290;Blancafort;4,9;8,2;13,1
+170237;Blanes;857,0;1182,5;2039,5
+170293;Boadella i les Escaules;3,2;2,4;5,6
+170242;Bolvir;2,6;3,4;6,0
+430304;Bonastre;23,9;35,3;59,3
+250576;Bòrdes, Es;0,5;1,8;2,3
+170255;Bordils;37,4;35,3;72,7
+250582;Borges Blanques, les;112,0;141,1;253,1
+430311;Borges del Camp, les;47,5;53,5;101,0
+170268;Borrassà;7,2;14,7;21,8
+080240;Borredà;6,3;6,3;12,7
+250595;Bossòst;5,4;7,3;12,7
+430326;Bot;3,3;8,5;11,8
+430332;Botarell;22,8;22,0;44,8
+250560;Bovera;2,3;1,8;4,0
+430347;Bràfim;9,0;11,1;20,1
+170274;Breda;70,1;102,9;173,0
+080253;Bruc, el;33,0;54,5;87,5
+080266;Brull, el;5,2;5,4;10,6
+170280;Brunyola i Sant Martí Sapresa;1,8;3,4;5,2
+430350;Cabacés;4,7;4,8;9,4
+250609;Cabanabona;0,6;0,2;0,8
+170314;Cabanelles;4,0;3,0;7,0
+170307;Cabanes;16,9;14,7;31,6
+080272;Cabanyes, les;6,3;26,4;32,7
+250616;Cabó;2,3;1,7;3,9
+430363;Cabra del Camp;37,1;43,3;80,3
+080288;Cabrera d'Anoia;41,7;60,6;102,3
+080291;Cabrera de Mar;46,6;70,4;117,0
+080305;Cabrils;97,8;122,8;220,6
+170329;Cadaqués;17,9;14,7;32,6
+080312;Calaf;62,2;105,1;167,3
+430379;Calafell;630,4;964,5;1594,9
+080348;Calders;15,0;10,1;25,1
+080327;Caldes d'Estrac;52,8;56,8;109,7
+170335;Caldes de Malavella;128,3;208,4;336,8
+080333;Caldes de Montbui;287,2;399,6;686,8
+080351;Calella;387,4;554,6;942,0
+080370;Calldetenes;28,7;36,2;64,8
+080386;Callús;44,3;57,8;102,1
+080364;Calonge de Segarra;0,7;1,3;1,9
+170340;Calonge i Sant Antoni;173,8;223,7;397,5
+250621;Camarasa;11,2;5,4;16,6
+439039;Camarles;55,0;96,7;151,7
+430385;Cambrils;569,8;931,6;1501,4
+170353;Camós;11,7;12,7;24,3
+170366;Campdevànol;43,2;56,6;99,8
+170372;Campelles;0,3;2,3;2,7
+080399;Campins;8,7;11,7;20,3
+170388;Campllong;3,7;3,0;6,7
+170391;Camprodon;28,3;31,7;59,9
+250637;Canejan;0,3;2,6;2,8
+170405;Canet d'Adri;10,3;5,8;16,1
+080403;Canet de Mar;263,6;382,8;646,3
+439076;Canonja, la;103,7;167,2;270,8
+080410;Canovelles;481,4;578,9;1060,3
+080425;Cànoves i Samalús;56,9;88,3;145,2
+170412;Cantallops;7,3;5,6;12,9
+080431;Canyelles;124,0;137,7;261,7
+430398;Capafonts;3,8;1,2;4,9
+430402;Capçanes;3,3;6,1;9,4
+080446;Capellades;106,9;120,9;227,8
+170427;Capmany;10,2;9,4;19,6
+080459;Capolat;1,0;0,0;1,0
+080462;Cardedeu;299,2;446,6;745,8
+080478;Cardona;82,7;117,1;199,8
+080484;Carme;18,5;24,1;42,6
+430419;Caseres;5,3;6,3;11,5
+170448;Cassà de la Selva;157,9;224,2;382,1
+080497;Casserres;37,0;38,9;75,9
+170486;Castell d'Aro, Platja d'Aro i s'Agaró;137,8;182,1;319,8
+080575;Castell de l'Areny;1,4;0,3;1,8
+259046;Castell de Mur;4,7;1,8;6,5
+250642;Castellar de la Ribera;0,8;1,1;1,8
+080522;Castellar de n'Hug;2,9;4,7;7,6
+080500;Castellar del Riu;1,9;2,3;4,3
+080517;Castellar del Vallès;360,9;574,2;935,1
+080538;Castellbell i el Vilar;99,0;107,4;206,4
+080543;Castellbisbal;177,0;314,9;491,9
+080556;Castellcir;13,8;20,6;34,3
+250674;Castelldans;13,6;15,8;29,3
+080569;Castelldefels;986,1;1325,9;2312,0
+080581;Castellet i la Gornal;53,7;78,2;131,8
+170464;Castellfollit de la Roca;14,5;16,4;30,9
+080608;Castellfollit de Riubregós;3,0;3,4;6,4
+080594;Castellfollit del Boix;3,9;7,2;11,1
+080615;Castellgalí;47,5;55,9;103,4
+080620;Castellnou de Bages;19,0;38,1;57,1
+250680;Castellnou de Seana;9,3;9,8;19,1
+170470;Castelló d'Empúries;186,8;259,6;446,3
+250693;Castelló de Farfanya;8,1;8,2;16,3
+080636;Castellolí;4,5;8,8;13,3
+250707;Castellserà;18,6;16,7;35,3
+080641;Castellterçol;37,9;51,5;89,4
+430424;Castellvell del Camp;40,3;54,8;95,1
+080654;Castellví de la Marca;24,4;33,2;57,6
+080667;Castellví de Rosanes;21,3;31,7;53,0
+430430;Catllar, el;63,3;104,4;167,7
+250714;Cava;0,9;0,0;0,9
+171899;Cellera de Ter, la;27,8;33,0;60,8
+170499;Celrà;69,6;104,6;174,2
+080673;Centelles;115,6;173,1;288,7
+082687;Cercs;26,8;35,3;62,2
+082665;Cerdanyola del Vallès;903,8;1200,4;2104,2
+080689;Cervelló;149,3;206,7;356,0
+250729;Cervera;149,8;185,3;335,2
+250735;Cervià de les Garrigues;13,9;15,4;29,3
+170502;Cervià de Ter;8,2;12,0;20,2
+170519;Cistella;3,3;6,8;10,1
+250740;Ciutadilla;2,2;4,6;6,8
+250753;Clariana de Cardener;2,3;3,2;5,4
+250766;Cogul, el;1,8;3,2;4,9
+170545;Colera;5,5;12,6;18,1
+250772;Coll de Nargó;9,8;11,1;20,8
+080692;Collbató;56,7;93,3;150,0
+430458;Colldejou;1,3;3,0;4,3
+080706;Collsuspina;6,5;6,9;13,4
+170558;Colomers;0,4;2,5;2,9
+251636;Coma i la Pedra, la;0,6;3,3;3,9
+251615;Conca de Dalt;2,4;8,7;11,1
+430461;Conesa;3,3;0,8;4,2
+430477;Constantí;224,3;273,5;497,8
+080713;Copons;2,3;4,6;6,9
+430483;Corbera d'Ebre;16,2;13,8;29,9
+080728;Corbera de Llobregat;240,0;305,5;545,5
+250788;Corbins;11,9;16,6;28,5
+170577;Corçà;15,7;15,6;31,3
+080734;Cornellà de Llobregat;1747,4;2267,8;4015,3
+170561;Cornellà del Terri;22,3;32,8;55,0
+430496;Cornudella de Montsant;14,9;15,8;30,8
+430509;Creixell;91,8;107,5;199,3
+170583;Crespià;3,1;3,5;6,6
+179011;Cruïlles, Monells i Sant Sadurní de l'Heura;15,6;28,3;43,8
+080749;Cubelles;330,8;471,2;801,9
+250791;Cubells;3,7;3,9;7,6
+430516;Cunit;345,5;496,9;842,4
+170600;Darnius;9,1;7,3;16,3
+170617;Das;0,5;0,4;0,9
+439018;Deltebre;232,4;364,6;597,0
+080752;Dosrius;90,8;150,5;241,3
+430537;Duesaigües;4,5;4,3;8,8
+170622;Escala, l';138,8;181,2;319,9
+080765;Esparreguera;404,4;625,3;1029,8
+170638;Espinelves;0,8;4,8;5,5
+250812;Espluga Calba, l';5,5;6,3;11,8
+430542;Espluga de Francolí, l';57,3;88,5;145,8
+080771;Esplugues de Llobregat;693,0;968,9;1661,9
+170643;Espolla;3,0;3,7;6,7
+170656;Esponellà;5,6;3,3;8,9
+250827;Espot;0,8;2,2;3,0
+080787;Espunyola, l';5,2;2,8;7,9
+082541;Esquirol, l';32,5;32,6;65,1
+250886;Estamariu;0,3;1,1;1,3
+080790;Estany, l';4,8;3,6;8,3
+250851;Estaràs;0,0;2,0;2,0
+250864;Esterri d'Àneu;6,3;9,8;16,0
+250870;Esterri de Cardós;0,6;0,0;0,6
+430555;Falset;37,7;65,5;103,2
+170059;Far d'Empordà, el;8,6;8,3;16,8
+250899;Farrera;2,7;1,3;3,9
+430568;Fatarella, la;5,8;14,8;20,7
+430574;Febró, la;0,3;2,0;2,3
+081347;Figaró-Montmany;23,8;25,6;49,3
+080804;Fígols;0,8;0,0;0,8
+259084;Fígols i Alinyà;3,2;2,9;6,1
+430580;Figuera, la;2,8;0,8;3,5
+170669;Figueres;1019,3;1527,4;2546,7
+430593;Figuerola del Camp;4,3;7,4;11,8
+170675;Flaçà;17,0;19,9;36,9
+430607;Flix;73,7;81,1;154,8
+250925;Floresta, la;3,0;2,3;5,3
+080826;Fogars de la Selva;41,5;51,6;93,1
+080811;Fogars de Montclús;6,4;8,2;14,6
+170681;Foixà;2,8;0,8;3,5
+080832;Folgueroles;15,2;39,5;54,7
+250931;Fondarella;5,1;10,8;15,8
+080847;Fonollosa;28,3;37,8;66,1
+170694;Fontanals de Cerdanya;1,8;3,1;4,8
+170708;Fontanilles;0,7;2,4;3,1
+170715;Fontcoberta;7,0;14,6;21,6
+080850;Font-rubí;21,7;25,5;47,2
+250946;Foradada;0,5;3,5;4,0
+179026;Forallac;20,8;25,6;46,3
+430614;Forès;2,2;0,0;2,2
+170736;Fornells de la Selva;20,1;29,7;49,8
+170741;Fortià;9,0;11,6;20,6
+080863;Franqueses del Vallès, les;360,7;571,4;932,1
+430629;Freginals;6,1;10,8;16,9
+250962;Fuliola, la;31,1;32,4;63,5
+250978;Fulleda;1,8;2,4;4,2
+080902;Gaià;2,6;4,7;7,3
+430635;Galera, la;10,9;11,2;22,1
+080879;Gallifa;3,0;2,8;5,8
+430640;Gandesa;51,5;70,0;121,5
+430653;Garcia;9,4;12,1;21,5
+430666;Garidells, els;4,3;4,9;9,3
+080885;Garriga, la;223,9;323,4;547,3
+170754;Garrigàs;6,0;4,8;10,8
+170767;Garrigoles;0,9;1,7;2,6
+170773;Garriguella;5,7;14,8;20,5
+080898;Gavà;807,8;1075,8;1883,7
+250984;Gavet de la Conca;4,1;1,9;6,0
+080919;Gelida;142,2;183,7;325,8
+170789;Ger;3,7;2,8;6,4
+259123;Gimenells i el Pla de la Font;5,8;15,3;21,0
+430672;Ginestar;12,6;16,9;29,5
+170792;Girona;1999,8;2470,8;4470,7
+080924;Gironella;69,6;107,0;176,6
+080930;Gisclareny;0,3;1,0;1,3
+430688;Godall;15,0;10,8;25,8
+250997;Golmés;28,3;34,7;62,9
+170806;Gombrèn;4,1;4,0;8,1
+251001;Gósol;1,3;2,1;3,3
+080945;Granada, la;34,4;49,2;83,6
+251018;Granadella, la;2,8;11,1;13,9
+080958;Granera;1,2;2,0;3,2
+251023;Granja d'Escarp, la;12,4;9,4;21,8
+080961;Granollers;1287,6;1727,6;3015,2
+251039;Granyanella;1,3;2,6;3,8
+251057;Granyena de les Garrigues;4,0;2,3;6,3
+251044;Granyena de Segarra;4,8;0,3;5,1
+430691;Gratallops;2,0;3,1;5,1
+080977;Gualba;29,2;44,8;74,0
+170813;Gualta;4,4;4,9;9,3
+080996;Guardiola de Berguedà;19,9;26,6;46,5
+430705;Guiamets, els;4,3;3,7;7,9
+170828;Guils de Cerdanya;2,8;7,8;10,5
+251095;Guimerà;3,6;6,3;9,9
+259031;Guingueta d'Àneu, la;1,3;2,8;4,0
+251109;Guissona;70,3;88,8;159,1
+251116;Guixers;1,2;1,8;2,9
+081000;Gurb;21,4;36,4;57,8
+430712;Horta de Sant Joan;12,9;18,3;31,2
+081017;Hospitalet de Llobregat, l';5214,0;6756,0;11970,0
+081629;Hostalets de Pierola, els;76,5;102,3;178,8
+170834;Hostalric;82,9;120,3;203,3
+081022;Igualada;815,8;1244,0;2059,8
+251155;Isona i Conca Dellà;15,3;19,3;34,6
+170849;Isòvol;0,4;5,7;6,1
+251137;Ivars d'Urgell;14,9;15,2;30,1
+251121;Ivars de Noguera;1,8;6,2;7,9
+251142;Ivorra;0,7;1,0;1,7
+170852;Jafre;3,3;5,7;8,9
+170865;Jonquera, la;53,7;77,7;131,3
+081038;Jorba;14,3;20,8;35,0
+259101;Josa i Tuixén;1,2;1,2;2,3
+170871;Juià;4,8;0,6;5,4
+251180;Juncosa;2,5;3,4;5,9
+251193;Juneda;46,8;62,4;109,3
+251214;Les;10,8;10,8;21,5
+251229;Linyola;27,7;46,8;74,4
+081043;Llacuna, la;22,3;17,0;39,3
+170887;Lladó;7,1;13,5;20,6
+251235;Lladorre;1,0;2,0;3,0
+251240;Lladurs;1,7;0,0;1,7
+081056;Llagosta, la;259,3;409,8;669,0
+170890;Llagostera;176,6;227,4;404,0
+170904;Llambilles;4,4;3,8;8,2
+170911;Llanars;2,3;8,8;11,2
+170926;Llançà;62,9;94,7;157,6
+251253;Llardecans;2,5;6,1;8,6
+251266;Llavorsí;4,8;4,0;8,8
+251207;Lleida;2768,0;3910,4;6678,4
+170932;Llers;13,8;30,3;44,1
+251272;Lles de Cerdanya;0,9;1,9;2,8
+081075;Lliçà d'Amunt;267,4;422,5;689,9
+081081;Lliçà de Vall;96,3;147,8;244,1
+251288;Llimiana;1,8;0,4;2,3
+081069;Llinars del Vallès;216,5;271,6;488,1
+170947;Llívia;18,3;19,9;38,3
+430727;Lloar, el;0,8;0,7;1,4
+251291;Llobera;2,1;3,3;5,3
+430733;Llorac;2,3;0,1;2,3
+430748;Llorenç del Penedès;54,9;74,5;129,4
+170950;Lloret de Mar;564,7;732,5;1297,2
+170963;Llosses, les;2,6;3,1;5,7
+081094;Lluçà;4,4;3,5;7,9
+171024;Maçanet de Cabrenys;11,8;10,2;22,0
+171030;Maçanet de la Selva;214,9;290,8;505,8
+170979;Madremanya;0,2;3,2;3,3
+170985;Maià de Montcal;13,8;10,3;24,1
+251333;Maials;12,1;9,8;21,9
+251305;Maldà;4,0;5,3;9,3
+081108;Malgrat de Mar;329,2;486,3;815,4
+081115;Malla;1,3;2,2;3,4
+081120;Manlleu;507,0;728,8;1235,8
+081136;Manresa;1964,8;2479,7;4444,4
+430764;Marçà;18,9;16,6;35,5
+430751;Margalef;2,4;0,7;3,1
+082423;Marganell;9,4;15,4;24,8
+081141;Martorell;526,8;767,2;1293,9
+081154;Martorelles;85,3;158,7;244,0
+430770;Mas de Barberans;5,6;5,7;11,3
+171002;Masarac i Vilarnadal;3,6;5,4;9,0
+430786;Masdenverge;17,3;33,5;50,8
+081167;Masies de Roda, les;9,7;13,8;23,5
+081173;Masies de Voltregà, les;42,8;62,7;105,4
+430799;Masllorenç;13,3;15,6;28,9
+081189;Masnou, el;411,6;521,2;932,8
+430803;Masó, la;5,0;7,4;12,4
+430810;Maspujols;13,8;24,0;37,8
+081192;Masquefa;177,3;314,3;491,5
+430825;Masroig, el;11,6;7,4;19,0
+251312;Massalcoreig;4,2;5,8;10,0
+171019;Massanes;23,2;33,5;56,7
+251327;Massoteres;1,7;2,8;4,4
+081206;Matadepera;93,2;91,9;185,1
+081213;Mataró;3054,3;3927,4;6981,8
+081228;Mediona;61,4;94,2;155,6
+251348;Menàrguens;8,2;13,5;21,7
+170998;Meranges;0,3;1,7;1,9
+171058;Mieres;7,3;10,7;17,9
+430831;Milà, el;5,6;1,9;7,5
+251351;Miralcamp;23,9;25,6;49,5
+430846;Miravet;7,0;12,0;19,0
+081385;Moià;130,6;171,2;301,8
+430859;Molar, el;2,3;5,6;7,8
+081234;Molins de Rei;366,8;515,3;882,2
+251370;Mollerussa;261,6;408,2;669,8
+171061;Mollet de Peralada;2,9;2,4;5,3
+081249;Mollet del Vallès;1090,2;1509,9;2600,1
+171077;Molló;3,5;4,3;7,8
+251364;Molsosa, la;0,2;1,4;1,6
+081287;Monistrol de Calders;20,3;26,1;46,3
+081271;Monistrol de Montserrat;55,4;76,5;131,9
+171096;Montagut i Oix;13,8;16,3;30,2
+430862;Montblanc;109,7;165,4;275,1
+430884;Montbrió del Camp;52,3;78,9;131,3
+081252;Montcada i Reixac;798,2;1203,3;2001,4
+081304;Montclar;1,0;0,6;1,6
+251399;Montellà i Martinet;6,2;8,8;14,9
+081311;Montesquiu;22,7;36,4;59,1
+251403;Montferrer i Castellbò;9,1;14,7;23,8
+430897;Montferri;11,3;10,7;21,9
+251386;Montgai;3,3;8,0;11,3
+081265;Montgat;196,3;291,3;487,6
+081326;Montmajor;1,1;4,3;5,4
+081332;Montmaneu;1,4;1,5;2,9
+430901;Montmell, el;64,4;78,9;143,3
+081350;Montmeló;147,3;249,7;396,9
+251425;Montoliu de Lleida;0,7;3,4;4,1
+251410;Montoliu de Segarra;0,8;2,3;3,0
+251431;Montornès de Segarra;1,6;1,2;2,8
+081363;Montornès del Vallès;340,0;546,3;886,3
+430918;Mont-ral;4,5;1,3;5,8
+171100;Mont-ras;22,6;19,1;41,7
+430923;Mont-roig del Camp;254,3;388,8;643,2
+081379;Montseny;6,6;10,9;17,5
+430939;Móra d'Ebre;118,3;165,0;283,3
+430944;Móra la Nova;77,4;105,8;183,3
+430957;Morell, el;56,9;101,0;157,9
+430960;Morera de Montsant, la;3,1;0,0;3,1
+081290;Muntanyola;9,3;14,7;24,0
+081398;Mura;4,6;2,8;7,4
+251459;Nalec;0,3;1,0;1,3
+250254;Naut Aran;8,3;5,3;13,6
+081402;Navarcles;93,1;121,4;214,5
+081419;Navàs;121,2;162,8;284,0
+171117;Navata;15,8;16,2;31,9
+251462;Navès;0,9;4,0;4,9
+081424;Nou de Berguedà, la;4,9;1,6;6,5
+430976;Nou de Gaià, la;12,6;18,9;31,5
+430982;Nulles;6,8;14,9;21,7
+251484;Odèn;1,5;0,3;1,8
+081430;Òdena;74,9;99,9;174,8
+171122;Ogassa;1,5;3,4;4,9
+081458;Olèrdola;64,3;87,8;152,1
+081461;Olesa de Bonesvalls;38,9;43,3;82,3
+081477;Olesa de Montserrat;410,3;651,8;1062,1
+251497;Oliana;15,3;24,3;39,6
+251500;Oliola;0,0;0,8;0,8
+251517;Olius;10,8;13,9;24,7
+081483;Olivella;90,1;119,5;209,6
+081496;Olost;12,7;28,0;40,7
+171143;Olot;634,9;718,3;1353,2
+251522;Oluges, les;1,3;2,8;4,1
+081445;Olvan;13,8;25,4;39,3
+251538;Omellons, els;1,3;1,8;3,1
+251543;Omells de na Gaia, els;0,3;4,0;4,3
+171156;Ordis;1,9;3,4;5,3
+251556;Organyà;12,3;18,4;30,7
+081509;Orís;6,1;6,8;12,9
+081516;Oristà;4,2;6,8;10,9
+081521;Orpí;2,6;5,3;7,9
+081537;Òrrius;16,9;16,8;33,8
+251569;Os de Balaguer;6,7;14,0;20,7
+171169;Osor;12,7;12,8;25,5
+251575;Ossó de Sió;3,1;1,0;4,1
+081542;Pacs del Penedès;14,4;22,5;36,9
+081555;Palafolls;163,1;242,7;405,8
+171175;Palafrugell;325,6;463,9;789,5
+171181;Palamós;262,1;314,3;576,4
+251581;Palau d'Anglesola, el;24,8;45,3;70,1
+171194;Palau de Santa Eulàlia;1,3;0,4;1,8
+171215;Palau-sator;1,8;3,4;5,2
+171208;Palau-saverdera;19,5;18,9;38,4
+081568;Palau-solità i Plegamans;219,7;341,5;561,2
+431009;Pallaresos, els;66,8;110,5;177,3
+081574;Pallejà;141,2;237,1;378,3
+430995;Palma d'Ebre, la;3,8;7,6;11,3
+089058;Palma de Cervelló, la;41,2;50,6;91,8
+171236;Palol de Revardit;4,6;4,5;9,1
+171241;Pals;25,1;23,5;48,6
+081580;Papiol, el;70,3;92,4;162,8
+171254;Pardines;2,6;1,7;4,3
+081593;Parets del Vallès;282,9;429,9;712,8
+171267;Parlavà;6,6;3,6;10,2
+431016;Passanant i Belltall;4,9;2,9;7,8
+171289;Pau;6,3;10,5;16,8
+431021;Paüls;2,8;11,3;14,2
+171292;Pedret i Marzà;3,3;2,3;5,7
+251641;Penelles;4,5;3,3;7,8
+171306;Pera, la;5,4;7,8;13,2
+081607;Perafita;6,4;9,3;15,8
+431037;Perafort;22,6;20,9;43,5
+171328;Peralada;16,4;27,3;43,8
+251654;Peramola;1,0;3,4;4,4
+431042;Perelló, el;46,1;42,8;88,8
+081614;Piera;391,3;580,5;971,8
+431055;Piles, les;1,3;2,3;3,7
+081635;Pineda de Mar;651,4;934,2;1585,6
+431068;Pinell de Brai, el;19,0;11,3;30,3
+251667;Pinell de Solsonès;1,9;1,4;3,3
+251673;Pinós;5,0;3,1;8,1
+431074;Pira;7,4;8,9;16,3
+431080;Pla de Santa Maria, el;57,3;66,6;123,9
+081640;Pla del Penedès, el;26,1;34,3;60,3
+171334;Planes d'Hostoles, les;20,3;25,5;45,8
+171349;Planoles;8,9;2,4;11,3
+259118;Plans de Sió, els;4,8;8,8;13,6
+251689;Poal, el;5,5;7,3;12,8
+251692;Pobla de Cérvoles, la;4,2;2,6;6,8
+081653;Pobla de Claramunt, la;33,3;59,3;92,5
+081666;Pobla de Lillet, la;13,9;24,3;38,3
+431093;Pobla de Mafumet, la;67,4;134,2;201,6
+431107;Pobla de Massaluca, la;4,5;4,3;8,8
+431114;Pobla de Montornès, la;74,0;117,6;191,6
+251713;Pobla de Segur, la;48,9;48,3;97,3
+431129;Poboleda;3,7;3,0;6,7
+081672;Polinyà;151,6;210,9;362,5
+431135;Pont d'Armentera, el;16,3;13,4;29,8
+250306;Pont de Bar, el;4,9;3,4;8,3
+171352;Pont de Molins;5,5;7,8;13,3
+251734;Pont de Suert, el;21,9;28,8;50,7
+081825;Pont de Vilomara i Rocafort, el;92,0;123,2;215,2
+431418;Pontils;4,6;2,7;7,3
+081688;Pontons;19,3;17,3;36,6
+171365;Pontós;2,9;4,1;7,0
+251728;Ponts;43,8;56,1;99,9
+171371;Porqueres;43,0;68,0;111,0
+431140;Porrera;7,4;6,2;13,6
+171404;Port de la Selva, el;4,8;9,0;13,8
+171387;Portbou;14,7;17,7;32,3
+251749;Portella, la;7,6;11,7;19,3
+431153;Pradell de la Teixeta;1,6;3,0;4,6
+431166;Prades;8,7;9,2;17,8
+431172;Prat de Comte;4,2;1,3;5,4
+081691;Prat de Llobregat, el;1140,8;1649,8;2790,7
+431188;Pratdip;16,0;24,8;40,8
+081712;Prats de Lluçanès;40,3;59,3;99,6
+081705;Prats de Rei, els;6,4;6,3;12,8
+251752;Prats i Sansor;0,2;3,5;3,7
+251765;Preixana;2,5;6,5;9,0
+251771;Preixens;4,9;7,0;11,9
+082303;Premià de Dalt;156,1;220,7;376,8
+081727;Premià de Mar;552,3;741,3;1293,5
+171390;Preses, les;18,9;31,5;50,4
+251790;Prullans;1,5;2,4;3,9
+171411;Puigcerdà;99,3;155,8;255,1
+081748;Puigdàlber;9,4;16,0;25,4
+251804;Puiggròs;5,1;4,8;9,9
+431191;Puigpelat;22,2;31,4;53,6
+081751;Puig-reig;63,1;99,1;162,2
+251811;Puigverd d'Agramunt;2,3;4,5;6,8
+251826;Puigverd de Lleida;9,7;25,8;35,5
+081764;Pujalt;0,6;0,3;0,8
+081770;Quar, la;1,0;1,0;2,0
+171426;Quart;55,1;55,4;110,5
+170433;Queralbs;3,9;0,9;4,8
+431205;Querol;23,9;24,4;48,3
+171432;Rabós;2,5;1,2;3,7
+081786;Rajadell;6,7;11,4;18,1
+431362;Ràpita, la;259,9;436,7;696,6
+431212;Rasquera;9,0;18,4;27,4
+171447;Regencós;1,3;4,5;5,8
+081799;Rellinars;23,0;18,9;41,9
+431227;Renau;1,3;1,5;2,8
+431233;Reus;2377,0;3408,7;5785,7
+251832;Rialp;5,8;5,6;11,3
+431248;Riba, la;7,3;16,2;23,4
+431251;Riba-roja d'Ebre;22,1;18,2;40,3
+259059;Ribera d'Ondara;4,5;11,0;15,5
+251850;Ribera d'Urgellet;8,3;9,7;18,0
+171450;Ribes de Freser;30,0;24,8;54,8
+171463;Riells i Viabrea;105,3;174,9;280,3
+431264;Riera de Gaià, la;21,8;32,2;53,9
+251863;Riner;0,8;3,8;4,6
+171479;Ripoll;166,8;225,5;392,3
+081803;Ripollet;849,1;1234,5;2083,6
+259139;Riu de Cerdanya;0,4;1,6;2,0
+171485;Riudarenes;51,7;71,0;122,7
+171498;Riudaura;3,9;9,0;12,9
+431270;Riudecanyes;21,8;35,8;57,6
+431286;Riudecols;22,3;38,2;60,5
+171501;Riudellots de la Selva;23,3;40,2;63,4
+431299;Riudoms;107,8;145,3;253,2
+171518;Riumors;1,3;1,8;3,0
+081810;Roca del Vallès, la;163,6;245,5;409,1
+431303;Rocafort de Queralt;4,6;3,3;7,9
+431310;Roda de Berà;153,9;198,3;352,2
+081831;Roda de Ter;108,4;162,3;270,8
+431325;Rodonyà;14,6;15,3;29,9
+431331;Roquetes;156,7;188,6;345,3
+171523;Roses;261,7;375,1;636,8
+251898;Rosselló;61,8;86,0;147,8
+431346;Rourell, el;7,3;9,8;17,1
+081846;Rubí;1694,8;2407,5;4102,3
+081859;Rubió;3,8;3,0;6,8
+171539;Rupià;1,3;3,8;5,1
+089019;Rupit i Pruit;1,3;6,0;7,3
+081878;Sabadell;4727,8;6350,9;11078,8
+081884;Sagàs;0,4;1,3;1,8
+251902;Salàs de Pallars;9,2;6,0;15,2
+081901;Saldes;5,2;7,6;12,8
+171544;Sales de Llierca;2,3;1,1;3,3
+081918;Sallent;118,9;164,5;283,4
+431359;Salomó;7,0;3,5;10,5
+439057;Salou;378,3;548,2;926,5
+171557;Salt;898,2;1046,7;1944,8
+251919;Sanaüja;2,9;4,6;7,5
+081944;Sant Adrià de Besòs;1049,4;1446,4;2495,8
+081957;Sant Agustí de Lluçanès;2,2;1,7;3,8
+081960;Sant Andreu de la Barca;437,3;717,6;1154,8
+081976;Sant Andreu de Llavaneres;144,7;205,3;349,9
+171576;Sant Andreu Salou;1,1;2,3;3,4
+171833;Sant Aniol de Finestres;4,0;1,8;5,8
+081982;Sant Antoni de Vilamajor;114,6;179,2;293,8
+081995;Sant Bartomeu del Grau;16,4;21,6;38,0
+082009;Sant Boi de Llobregat;1475,6;2197,5;3673,1
+082016;Sant Boi de Lluçanès;10,8;3,3;14,0
+082037;Sant Cebrià de Vallalta;63,9;101,7;165,6
+082021;Sant Celoni;376,3;509,8;886,1
+082042;Sant Climent de Llobregat;56,0;90,9;146,9
+171582;Sant Climent Sescebes;9,0;9,5;18,5
+082055;Sant Cugat del Vallès;1083,0;1345,8;2428,8
+082068;Sant Cugat Sesgarrigues;13,3;15,8;29,0
+251961;Sant Esteve de la Sarga;1,0;2,8;3,8
+082074;Sant Esteve de Palautordera;40,2;60,6;100,8
+082080;Sant Esteve Sesrovires;107,3;137,2;244,5
+171595;Sant Feliu de Buixalleu;18,0;21,8;39,8
+082107;Sant Feliu de Codines;126,3;171,8;298,1
+171609;Sant Feliu de Guíxols;379,6;472,1;851,7
+082114;Sant Feliu de Llobregat;671,8;941,8;1613,6
+171616;Sant Feliu de Pallerols;21,8;21,4;43,2
+082129;Sant Feliu Sasserra;8,0;11,4;19,4
+171621;Sant Ferriol;4,2;3,1;7,3
+082093;Sant Fost de Campsentelles;141,6;201,4;343,0
+082135;Sant Fruitós de Bages;118,3;192,3;310,5
+171637;Sant Gregori;27,9;51,5;79,4
+251924;Sant Guim de Freixenet;15,2;22,3;37,4
+251977;Sant Guim de la Plana;2,6;5,2;7,8
+171642;Sant Hilari Sacalm;63,2;136,9;200,1
+082153;Sant Hipòlit de Voltregà;58,3;80,3;138,6
+081939;Sant Iscle de Vallalta;25,6;40,3;65,9
+439023;Sant Jaume d'Enveja;67,8;111,3;179,2
+082166;Sant Jaume de Frontanyà;0,0;1,8;1,8
+171655;Sant Jaume de Llierca;11,2;21,6;32,8
+431378;Sant Jaume dels Domenys;49,9;72,3;122,3
+171674;Sant Joan de les Abadesses;40,9;52,9;93,8
+171680;Sant Joan de Mollet;4,8;7,3;12,0
+082188;Sant Joan de Vilatorrada;178,5;263,9;442,4
+082172;Sant Joan Despí;497,0;692,7;1189,7
+171851;Sant Joan les Fonts;41,8;53,3;95,0
+171668;Sant Jordi Desvalls;11,4;11,8;23,2
+089030;Sant Julià de Cerdanyola;3,6;2,2;5,8
+171693;Sant Julià de Ramis;42,8;78,6;121,3
+082205;Sant Julià de Vilatorta;33,1;44,1;77,2
+179032;Sant Julià del Llor i Bonmatí;23,8;32,9;56,7
+082212;Sant Just Desvern;204,8;296,5;501,3
+082227;Sant Llorenç d'Hortons;38,5;60,8;99,3
+171714;Sant Llorenç de la Muga;4,3;4,5;8,8
+251930;Sant Llorenç de Morunys;5,3;8,5;13,8
+082233;Sant Llorenç Savall;43,9;62,7;106,6
+082251;Sant Martí d'Albars;0,7;1,8;2,4
+082248;Sant Martí de Centelles;33,9;39,9;73,8
+171729;Sant Martí de Llémena;4,3;10,6;14,8
+259025;Sant Martí de Riucorb;6,5;12,6;19,1
+082264;Sant Martí de Tous;16,6;19,5;36,1
+082270;Sant Martí Sarroca;36,1;84,9;121,0
+082286;Sant Martí Sesgueioles;4,2;4,4;8,6
+171735;Sant Martí Vell;3,8;2,9;6,7
+082299;Sant Mateu de Bages;13,5;8,3;21,8
+171740;Sant Miquel de Campmajor;3,2;2,7;5,8
+171753;Sant Miquel de Fluvià;18,8;33,8;52,7
+171766;Sant Mori;1,9;2,3;4,3
+171772;Sant Pau de Segúries;7,4;14,4;21,8
+082310;Sant Pere de Ribes;632,9;942,4;1575,3
+082325;Sant Pere de Riudebitlles;35,2;49,8;84,9
+082331;Sant Pere de Torelló;47,8;55,2;103,0
+082346;Sant Pere de Vilamajor;90,5;115,5;206,0
+171788;Sant Pere Pescador;23,9;23,7;47,6
+081897;Sant Pere Sallavinera;0,3;0,0;0,3
+082359;Sant Pol de Mar;72,6;119,1;191,7
+082362;Sant Quintí de Mediona;57,4;71,6;129,0
+082378;Sant Quirze de Besora;38,4;49,9;88,3
+082384;Sant Quirze del Vallès;223,8;383,7;607,4
+082397;Sant Quirze Safaja;12,4;15,2;27,6
+251945;Sant Ramon;2,3;6,7;9,0
+082401;Sant Sadurní d'Anoia;202,1;324,4;526,5
+082418;Sant Sadurní d'Osormort;0,3;2,7;3,0
+080983;Sant Salvador de Guardiola;61,4;82,3;143,7
+082628;Sant Vicenç de Castellet;204,3;329,0;533,3
+082649;Sant Vicenç de Montalt;87,4;108,3;195,7
+082652;Sant Vicenç de Torelló;30,2;46,5;76,7
+082634;Sant Vicenç dels Horts;533,0;875,5;1408,5
+431384;Santa Bàrbara;80,5;93,7;174,2
+082439;Santa Cecília de Voltregà;2,3;1,8;4,1
+082444;Santa Coloma de Cervelló;96,0;134,7;230,7
+171805;Santa Coloma de Farners;215,3;315,9;531,3
+082457;Santa Coloma de Gramenet;2768,6;3694,9;6463,5
+431397;Santa Coloma de Queralt;28,4;59,1;87,5
+171812;Santa Cristina d'Aro;56,0;72,0;128,0
+082460;Santa Eugènia de Berga;29,0;40,2;69,2
+082476;Santa Eulàlia de Riuprimer;14,0;29,4;43,4
+082482;Santa Eulàlia de Ronçana;124,8;171,1;295,8
+082495;Santa Fe del Penedès;4,6;8,1;12,7
+171827;Santa Llogaia d'Àlguema;6,0;7,8;13,8
+082508;Santa Margarida de Montbui;265,8;429,2;695,0
+082515;Santa Margarida i els Monjos;129,3;198,6;327,8
+082589;Santa Maria d'Oló;7,9;19,4;27,3
+082536;Santa Maria de Besora;1,4;2,4;3,8
+082567;Santa Maria de Martorelles;17,5;15,1;32,6
+082554;Santa Maria de Merlès;1,9;6,1;8,0
+082573;Santa Maria de Miralles;4,2;3,0;7,2
+082592;Santa Maria de Palautordera;211,7;257,5;469,2
+431401;Santa Oliva;90,1;143,3;233,4
+171848;Santa Pau;17,3;28,3;45,7
+082606;Santa Perpètua de Mogoda;462,4;699,8;1162,3
+082613;Santa Susanna;58,9;86,0;144,9
+081923;Santpedor;92,4;128,2;220,6
+431423;Sarral;22,8;31,8;54,6
+171864;Sarrià de Ter;73,8;82,3;156,1
+252017;Sarroca de Bellera;3,6;2,0;5,6
+252000;Sarroca de Lleida;2,8;4,0;6,8
+171870;Saus, Camallera i Llampaies;14,3;16,5;30,8
+431439;Savallà del Comtat;1,2;1,0;2,2
+431444;Secuita, la;28,6;40,1;68,7
+171886;Selva de Mar, la;2,8;3,8;6,6
+431457;Selva del Camp, la;88,9;113,3;202,2
+431460;Senan;1,9;0,0;1,9
+430445;Sénia, la;114,7;158,0;272,7
+252022;Senterada;6,7;3,8;10,5
+250352;Sentiu de Sió, la;6,1;6,4;12,5
+082671;Sentmenat;139,8;217,2;357,0
+171903;Serinyà;17,5;24,1;41,6
+252043;Seròs;17,4;25,8;43,3
+171910;Serra de Daró;0,6;3,0;3,6
+171925;Setcases;0,1;1,3;1,3
+252038;Seu d'Urgell, la;221,5;297,8;519,3
+082690;Seva;50,8;61,3;112,2
+252056;Sidamon;6,8;12,9;19,7
+171931;Sils;133,2;162,7;295,8
+082704;Sitges;405,2;543,3;948,4
+170524;Siurana;0,4;2,3;2,8
+082711;Sobremunt;0,3;1,6;1,9
+252069;Soleràs, el;2,3;3,0;5,3
+431476;Solivella;6,8;9,3;16,0
+252075;Solsona;165,1;221,0;386,1
+082726;Sora;2,6;4,6;7,2
+252081;Soriguera;3,7;3,5;7,2
+252094;Sort;19,3;27,0;46,3
+252108;Soses;14,3;29,5;43,8
+082732;Subirats;45,6;62,5;108,1
+252115;Sudanell;6,1;6,4;12,5
+252120;Sunyer;2,5;4,1;6,6
+082747;Súria;104,8;150,7;255,4
+171946;Susqueda;2,6;2,3;4,8
+082763;Tagamanent;6,4;8,1;14,5
+082779;Talamanca;2,3;6,3;8,6
+252154;Talarn;4,0;5,7;9,7
+252167;Talavera;0,8;1,5;2,3
+171959;Tallada d'Empordà, la;3,2;6,2;9,3
+082785;Taradell;86,5;128,8;215,3
+431482;Tarragona;2752,5;3706,2;6458,7
+252173;Tàrrega;306,4;498,0;804,4
+252189;Tarrés;2,2;3,6;5,8
+252192;Tarroja de Segarra;1,3;1,2;2,5
+082750;Tavèrnoles;1,3;2,5;3,8
+082802;Tavertet;2,2;2,8;5,0
+082819;Teià;79,9;112,3;192,2
+252206;Térmens;13,9;19,9;33,8
+171962;Terrades;3,4;3,5;6,9
+082798;Terrassa;5029,0;7210,9;12239,9
+082824;Tiana;84,0;142,9;226,9
+252213;Tírvia;1,3;1,2;2,4
+252228;Tiurana;..;..;..
+431495;Tivenys;18,4;16,2;34,6
+431508;Tivissa;13,8;34,2;48,0
+082830;Tona;120,6;157,9;278,5
+252234;Torà;17,3;19,1;36,3
+082845;Tordera;451,5;616,2;1067,7
+082858;Torelló;263,3;388,1;651,4
+252249;Torms, els;1,3;1,2;2,4
+252252;Tornabous;9,8;13,3;23,1
+252271;Torre de Cabdella, la;2,5;5,8;8,3
+082861;Torre de Claramunt, la;93,7;146,6;240,3
+431515;Torre de Fontaubella, la;2,3;0,9;3,2
+431520;Torre de l'Espanyol, la;9,7;16,8;26,4
+252265;Torrebesses;3,5;4,6;8,1
+431536;Torredembarra;359,3;564,1;923,3
+252287;Torrefarrera;53,2;85,8;138,9
+259078;Torrefeta i Florejacs;5,8;6,9;12,8
+252304;Torregrossa;20,1;29,8;49,9
+252311;Torrelameu;5,6;7,8;13,3
+082877;Torrelavit;16,3;28,1;44,4
+082883;Torrelles de Foix;86,9;97,5;184,4
+082896;Torrelles de Llobregat;86,1;104,4;190,5
+171978;Torrent;3,3;2,4;5,7
+252326;Torres de Segre;28,7;47,8;76,4
+252332;Torre-serona;3,9;2,4;6,3
+171984;Torroella de Fluvià;5,7;10,0;15,7
+171997;Torroella de Montgrí;147,8;168,8;316,5
+431541;Torroja del Priorat;1,0;3,2;4,2
+172001;Tortellà;10,6;13,5;24,1
+431554;Tortosa;745,7;909,2;1654,8
+172018;Toses;3,2;2,2;5,3
+172023;Tossa de Mar;52,5;57,4;109,9
+252347;Tremp;105,6;133,5;239,1
+172044;Ullà;15,2;16,8;31,9
+082900;Ullastrell;22,2;46,6;68,8
+172057;Ullastret;1,4;2,8;4,2
+431567;Ulldecona;149,2;165,4;314,6
+431573;Ulldemolins;5,4;1,4;6,8
+172039;Ultramort;0,9;2,8;3,8
+172060;Urús;2,4;2,8;5,2
+082917;Vacarisses;140,0;181,8;321,8
+170144;Vajol, la;4,2;3,3;7,5
+172076;Vall d'en Bas, la;23,6;38,3;61,8
+172082;Vall de Bianya, la;19,4;15,8;35,3
+250432;Vall de Boí, la;10,1;9,6;19,7
+259010;Vall de Cardós;3,3;3,8;7,1
+082922;Vallbona d'Anoia;22,1;48,1;70,2
+252385;Vallbona de les Monges;4,8;1,8;6,7
+082938;Vallcebre;0,9;3,2;4,1
+431589;Vallclara;0,0;2,5;2,5
+252402;Vallfogona de Balaguer;23,8;32,8;56,6
+171707;Vallfogona de Ripollès;5,0;3,8;8,8
+431592;Vallfogona de Riucorb;1,4;1,0;2,4
+082943;Vallgorguina;66,4;90,9;157,3
+082956;Vallirana;246,6;365,4;612,0
+172095;Vall-llobrega;14,4;16,7;31,1
+431606;Vallmoll;38,3;52,7;91,0
+082969;Vallromanes;32,0;45,9;77,9
+431613;Valls;522,8;692,8;1215,5
+259062;Valls d'Aguilar, les;1,8;0,3;2,0
+252398;Valls de Valira, les;4,2;7,8;11,9
+431628;Vandellòs i l'Hospitalet de l'Infant;81,0;150,7;231,7
+259097;Vansa i Fórnols, la;1,4;2,6;4,0
+082975;Veciana;1,7;2,9;4,6
+431634;Vendrell, el;957,3;1536,5;2493,8
+172109;Ventalló;7,0;9,6;16,6
+252424;Verdú;15,2;16,9;32,1
+172116;Verges;14,3;14,9;29,3
+431649;Vespella de Gaià;12,0;8,4;20,4
+082981;Vic;1033,4;1196,5;2229,9
+172121;Vidrà;1,2;1,8;2,9
+172137;Vidreres;156,5;222,0;378,5
+252430;Vielha e Mijaran;33,8;40,4;74,2
+431652;Vilabella;10,5;13,4;23,9
+172142;Vilabertran;6,1;11,8;17,8
+172155;Vilablareix;23,8;42,8;66,5
+082994;Vilada;3,6;11,8;15,4
+172174;Viladamat;5,3;2,8;8,2
+172168;Viladasens;0,3;3,0;3,3
+083015;Viladecans;1159,9;1731,1;2891,0
+083008;Viladecavalls;132,6;164,3;296,9
+172180;Vilademuls;7,9;17,8;25,7
+172207;Viladrau;18,1;16,1;34,2
+172214;Vilafant;69,9;126,8;196,7
+083054;Vilafranca del Penedès;737,3;1068,8;1806,1
+252445;Vilagrassa;5,1;16,4;21,5
+172235;Vilajuïga;18,0;19,9;37,9
+431750;Vilalba dels Arcs;7,0;14,3;21,3
+083067;Vilalba Sasserra;18,2;18,8;37,0
+252458;Vilaller;4,3;7,3;11,6
+172240;Vilallonga de Ter;4,6;6,7;11,3
+431665;Vilallonga del Camp;38,7;60,8;99,4
+172253;Vilamacolum;7,0;9,0;16,0
+172266;Vilamalla;14,2;21,0;35,2
+172272;Vilamaniscle;0,5;1,5;2,0
+252477;Vilamòs;3,8;4,2;7,9
+172288;Vilanant;0,8;5,8;6,6
+431671;Vilanova d'Escornalbou;13,8;11,8;25,6
+252483;Vilanova de Bellpuig;12,7;14,0;26,7
+252496;Vilanova de l'Aguda;0,0;0,0;0,0
+252542;Vilanova de la Barca;9,2;18,0;27,2
+252509;Vilanova de Meià;7,4;7,0;14,4
+431687;Vilanova de Prades;3,8;1,2;4,9
+083036;Vilanova de Sau;5,1;7,8;12,9
+252516;Vilanova de Segrià;11,6;14,5;26,1
+083020;Vilanova del Camí;284,8;518,0;802,8
+089024;Vilanova del Vallès;79,8;98,9;178,8
+083073;Vilanova i la Geltrú;1509,2;2081,2;3590,3
+431690;Vilaplana;12,2;7,8;19,9
+431704;Vila-rodona;29,7;37,8;67,5
+172305;Vila-sacra;11,5;7,0;18,5
+252521;Vila-sana;5,4;8,4;13,8
+431711;Vila-seca;328,5;503,7;832,2
+082140;Vilassar de Dalt;145,5;171,4;316,9
+082191;Vilassar de Mar;284,6;384,7;669,3
+172229;Vilaür;2,3;1,3;3,7
+431726;Vilaverd;9,3;12,3;21,5
+431732;Vilella Alta, la;3,0;1,3;4,3
+431747;Vilella Baixa, la;3,0;3,7;6,7
+172333;Vilobí d'Onyar;30,3;47,2;77,5
+083041;Vilobí del Penedès;12,2;21,1;33,3
+172327;Vilopriu;1,5;5,1;6,6
+252537;Vilosell, el;1,3;3,9;5,2
+431763;Vimbodí i Poblet;15,6;21,8;37,3
+252555;Vinaixa;5,6;7,6;13,2
+431779;Vinebre;7,2;8,4;15,6
+431785;Vinyols i els Arcs;27,4;53,6;81,0
+083089;Viver i Serrateix;0,5;1,6;2,1
+430521;Xerta;32,4;29,7;62,1
+;Catalunya;142232,5;193465,8;335698,3
