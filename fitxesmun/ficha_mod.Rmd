@@ -1,0 +1,214 @@
+---
+title: "Situació dels ODS als municipis de Catalunya"
+params:
+   new_subtitle: "My Title!"
+subtitle: "`r params$new_subtitle`"
+date: "<br> <br> <a href='https://ods-municipios.es/catalunya/'>Torna a l'informe</a>"
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+---
+<style>
+.cover{
+    background-color: #DDA63A;
+    }
+    
+.cover-card .author_name {
+    color: white;
+    font-weight: bolder;
+    font-size: 1.8em;
+    
+}
+
+.cover-card .author_job{
+    color: white;
+}
+
+a {
+ color: #6f0f36;   
+}
+
+</style>
+
+```{r include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(message = FALSE)
+knitr::opts_chunk$set(warning = FALSE)
+knitr::opts_chunk$set(cache = FALSE)
+```
+
+
+
+
+
+```{r include=FALSE}
+library(tidyverse)
+library(gt)
+library(htmltools)
+```
+
+
+```{r}
+a <- read.csv('fitxes.csv', 
+              colClasses = c("character","character", "character", "character","character",
+                             "integer","character", "character", "numeric"))
+# a <- a[1:100,]
+#b <- readxl::read_xlsx("../BasesdeDatos/Demografia/comarcasVal.xlsx")
+
+#ab <- a |> inner_join(b[ , c(1,3)], by = 'ine')
+
+df <- a %>%  
+    mutate(Total= paste('Població: ', Total, 'habitants')) %>% 
+    rename(c(Indicador=name,
+             Valor=value)) %>% 
+    mutate(Indicador= case_match(
+             Indicador,
+             'ods01.rdfb.hab'~ "Renda Disponible Familiar Bruta / hab. (€)",
+             'ods01.PobrSev' ~ "Taxa de Pobresa Severa (%)",
+             'ods01.Gasto_23perHab' ~ "Despesa social municipal / hab.(€)",
+             'ods2.propEco' ~ "Taxa de superfície de agric. ecológica sobre SAU (€)",
+             'ods2.propSau' ~ "Proporció de SAU sobre sup. total (%)",
+             'ods3.MortGen' ~ "Taxa de mortalitat general (%)",
+             'ods3.EV' ~ "Esperança de vida en néixer (anys)",
+             'ods4.tasaSup' ~ "Taxa de completament de l'Educació Superior (%)",
+             'ods4.Gasto_32perHab' ~ "Despesa municipal en educació / hab.",
+             'ods5.percAtFem' ~ "Taxa d'aturades sobre el total d'atur",
+             'ods5.indexParitat' ~ "Índex paritat en càrrecs elegits (1-100)",
+             'ods5.percDif' ~ "Diferencial Dones - Homes en pensions contributives (%)",
+             'ods6.consHab' ~ "Consum diari d'aigua d'ús domiciliari (l/hab.)",
+             'ods6.total_m3' ~ "Cost de l'aigua d'ús domiciliari (€/m3)",
+             'ods6.vuln' ~ 'Vulnerabilitat per nitrats a les aigües (0=No, 1= Sí)',
+             'ods7.gas.hab.dia' ~ "Consum diari de gas natural canalitzat (Kwh PCS/hab.)",
+             'ods7.propFG' ~ "Taxa d'ineficiència energètica en habitatges (%)",
+             'ods7.tasa.Ins' ~ "Instal·lacions fotovoltaiques / 100 hab.",
+             'ods8.tasaParo' ~ "Taxa de demandants de feina / població de 16-64 a. (%)",
+             'ods8.tasPib' ~ 'Taxa de creixement del PIB (%)',
+             'ods9.percInd' ~ "Taxa de treballadors de la Indústria (%)",
+             'ods9.taxEmpInd' ~ "Taxa d'empreses del sector industrial (%)",
+             # 'ods9.cob100Mbps' ~ "Taxa cobertura de la banda a 100Mbps (%)",
+             'ods10.Pobr' ~ "Taxa de risc de pobresa (%)",
+             'ods10.gini' ~ "Coeficient Gini (1-100)",
+             'ods10.dep' ~ "Taxa de dependència (%)",
+             'ods11.indAcc' ~ "Pes relatiu del cost del lloguer / Renda neta (%)",
+             'ods11.InMot1000' ~ "Índex de motorització (Turismes/1000 hab.)",
+             'ods11.supVerd_hab' ~ "Àrea urbana verda pública per habitant (m2)",
+             'ods11.pct_inun' ~ "% Sup. residencial inundable (PR = 500)",
+             'ods12.select.kg_hab' ~ 'Total recollida selectiva per hab. (kg/hab.)',
+             'ods12.fr_selectiva' ~ 'Fracció recollida selectiva sobre el total (%)',
+             'ods13.Gasto_17perHab'~ 'Despesa en Medi Ambient / habitant (€)',
+             'ods13.Participa'~ 'Participació en el Global Covenant (1=Sí, 0=No)',
+             'ods15.tasaBosque'~ 'Superfície de bosc de fusta sobre sup. total (%)',
+             'ods15.snuPerc'~ 'Superfície no urbanitzable sobre sup. total (%)',
+             'ods16.tasaCrimConv'~ 'Delictes convencionals denunciats (per mil hab.)',
+             'ods16.percVotants'~ 'Taxa participació a les eleccions Municipals (2019)',
+             'ods16.deut.hab'~ 'Deute viu per habitant',
+             'ods17.coopIngr'~ 'Pressupost de cooperació al desenvolupament vs. Ingressos propis (%)',
+             'ods17.coopHab'~ 'Pressupost de cooperació al desenvolupament per hab.'
+             ),
+        ODS= case_match(ODS,
+                        'ods01'~'ODS 1 - Fi de la pobresa',
+                        'ods2'~ 'ODS 2 - Fam zero',
+                        'ods3'~ 'ODS 3 - Salut i benestar',
+                        'ods4'~ 'ODS 4 - Educació de qualitat',
+                        'ods5'~ 'ODS 5 - Igualtat de gènere',
+                        'ods6'~ 'ODS 6 - Aigua neta i sanejament',
+                        'ods7'~ 'ODS 7 - Energía assequible i no contaminant',
+                        'ods8'~ 'ODS 8 - Treball decent i creixement econòmic',
+                        'ods9'~ 'ODS 9 - Indústria, innovació i infrastructura',
+                        'ods10'~'ODS 10 - Reducció de les desigualtats',
+                        'ods11'~'ODS 11 - Ciutats i comunitats sostenibles',
+                        'ods12'~'ODS 12 - Producció i consum responsables',
+                        'ods13'~'ODS 13 - Acció pel clima',
+                        'ods15'~'ODS 15 - Vida dels ecosistemes terrestres',
+                        'ods16'~'ODS 16 - Pau, justicia i institucions sòlides',
+                        'ods17'~'ODS 17 - Aliances per a assolir els objetius')
+       ) %>% 
+    group_by(Indicador) %>% 
+    mutate(Index = round(
+           (Valor - min(Valor, na.rm = TRUE)) / 
+               (max(Valor,na.rm = TRUE)-min(Valor, na.rm = TRUE)),2)) #%>% 
+#    head(n=150)
+
+df1 <- df |> filter(Ficha== v)
+
+
+```
+
+<h2>Municipi: `r unique(df1$Municipio)`</h2>
+<h3>Província: `r unique(df1$Provincia)`</h3>
+<h3>Comarca: `r unique(df1$Comarca)`</h3>
+<h3>`r prettyNum(unique(df1$Total),big.mark= ".")`</h3>
+
+
+### Quadre d'indicadors d'àmbit municipal, <br> per Objetius de Desenvolupament Sostenible (ODS)
+
+```{r}
+
+
+df1 |> ungroup() |> 
+  select(7:10) |> 
+  gt(groupname_col = 'ODS', 
+     rowname_col = 'ODS',
+     rownames_to_stub = TRUE) |> 
+  fmt_number(Valor, 
+             decimals = 1,
+             sep_mark = ".",
+             dec_mark = ",") |> 
+  fmt_number(Index, 
+             decimals = 2,
+             sep_mark = ".",
+             dec_mark = ",") |> 
+  sub_missing(
+    columns = everything(),
+    missing_text = "---") |> 
+  data_color(
+    columns = Index, 
+    colors = scales::col_numeric(
+      palette = c(
+        "papayawhip","red2"),
+             domain = c(0,.25,.50,.75,1)))
+
+```
+
+<style>
+.button_large {
+  padding: 15px 32px;
+  font-size: 18px;
+  color: #ffffff;
+  background-color: #ff7421;
+  font-weight: bold;
+  border-color: #ffffff;
+  border-radius: 30px;
+  cursor: pointer;
+	margin: 15px 0;
+}
+
+.button_large:hover {
+  background-color: #FEE216;
+  color: black;
+}
+
+</style>
+
+```{r }
+library(downloadthis)
+
+df1 |> ungroup() |> 
+  select(1,3,7,8,9,10) |>
+download_this(
+    output_name = "Dades ODS",
+    output_extension = ".xls",
+    button_label = "Descarrega en Excel",
+    button_type = "success",
+    has_icon = TRUE,
+    icon = "fa fa-save",
+    class= "button_large"
+  )
+
+
+```
+
+
+
+
+
