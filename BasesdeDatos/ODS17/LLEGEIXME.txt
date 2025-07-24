@@ -1,0 +1,20 @@
+InversioCooperacionsCatalanes Versió 0.1 - Actualitzat 17/05/2019
+
+Les dades d'aquest fitxer son una compilació realitzada per la consultora Ziri.es i s'actualitzen periòdicament.
+
+Aquest fitxer consta dels documents següents:
+
+0) LLEGEIXME.txt
+
+1) RawData.csv - Dades processades que contenen la informació facilitada per les administracions públiques en el marc de diversos estudis realitzats per Ziri.es. Les dades de les diverses administracions han estat creuades per evitar la seva duplicitat però poden contenir inexactituds i duplicitats. Qualsevol consulta sobre el contingut o l'exactitud de les dades pot efectuar-se a manel@antropotic.cat
+
+2) CRM_CAD_ODS.csv - Taula d'equivalències emprada per a analitzar els àmbits d'actuació de les cooperacions catalanes. Els criteris per a la classificació temàtica de les intervencions son els previstos per les institucions respectives a http://www.oecd.org/dac/stats/purposecodessectorclassification.html (CRM_CAD) i https://unstats.un.org/sdgs/indicators/indicators-list/ (ODS)
+
+L'accés i la utilització de les dades és lliure. Es prega informar als autors d'eventuals utilitzacions del set de dades per tal de poder donar la màxima difusió a les accions de recerca i anàlisis de les polítiques de cooperació de les administracions publiques catalanes.
+
+Els autors:
+Ziri.es - miquel@ziri.es
+AntroPoTIC.cat - manel@antropotic.cat
+
+
+
