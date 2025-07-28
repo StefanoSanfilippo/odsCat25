@@ -9,7 +9,7 @@ output:
     theme: yeti
     self_contained: no
     navbar:
-        - { title: "* Ver versión de 2024 del visor", href: "https://analysis.cat/ods/odscatalunya.html", align: "left", target: "_blank" }
+        - { title: "* Veure versió de 2024 del visor", href: "https://analysis.cat/ods/odscatalunya.html", align: "left", target: "_blank" }
 ---
 <div class= "header">
 <p class="left-side">
